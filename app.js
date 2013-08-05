@@ -41,7 +41,7 @@ webot2.watch(app, { token: wx_token2, path: '/wechat_2' });
 require('./rules')(webot);
 
 // 在环境变量提供的 $PORT 或 3000 端口监听
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 80;
 app.listen(port, function(){
   log("Listening on %s", port);
 });
