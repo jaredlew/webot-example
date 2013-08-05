@@ -1,5 +1,5 @@
 {
-  "name": "weixin-robot-example",
+  "name": "Meeturlove",
   "version": "0.0.3",
   "main": "app.js",
   "dependencies": {
@@ -28,12 +28,11 @@
     "webot",
     "wechat"
   ],
-  "description": "weixin-robot 模块示例",
-  "repository": "https://github.com/node-webot/webot-example.git",
-  "author": "Jesse Yang <jyyjcc@gmail.com>",
+  "description": "美缘君微信机器人",
+  "repository": "https://github.com/jaredlew/webot-example.git",
+  "author": "Jared Lew <noodleblog@gmail.com>",
   "contributors": [
-    "Jesse Yang <jyyjcc@gmail.com> (http://github.com/ktmud)",
-    "TZ <atian25@qq.com> (http://atian25.iteye.com/)"
+    "Jared Lew <noodleblog@gmail.com> (http://github.com/jaredlew)"
   ],
   "license": "MIT"
 }
